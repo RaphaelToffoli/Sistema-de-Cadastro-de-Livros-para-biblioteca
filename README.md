@@ -8,7 +8,7 @@ Um sistema prático e intuitivo desenvolvido em Python para gerenciamento e cada
 
 | Tela de Cadastro / Login | Visualização da Interface |
 | :---: | :---: |
-| ![Tela 1](Trabalho/images/images.jpg) | ![Tela 2](Trabalho/images/imagem2.jpg) |
+| ![Tela 1]() | ![Tela 2]() |
 
 ---
 
